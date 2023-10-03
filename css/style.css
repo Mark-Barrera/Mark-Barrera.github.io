@@ -57,6 +57,7 @@ header .video-container {
 }
 
 header .video-container video {
+  width: 100%;
   overflow: hidden;
 }
 
